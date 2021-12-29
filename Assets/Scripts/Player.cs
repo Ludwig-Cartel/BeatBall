@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Paddle : MonoBehaviour
+public class Player : MonoBehaviour
 {
     Rigidbody _rigidbody;
     // Start is called before the first frame update
